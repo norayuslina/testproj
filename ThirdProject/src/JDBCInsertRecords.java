@@ -7,8 +7,8 @@ public class JDBCInsertRecords {
    static final String DB_URL = "jdbc:mysql://localhost:3306/emp?useSSL=false";
 
    //  Database credentials
-   static final String USER = "myuser";
-   static final String PASS = "gopi";
+   static final String USER = "salma";
+   static final String PASS = "alormas93";
    
    public static void main(String[] args) {
    Connection conn = null;

@@ -7,7 +7,7 @@ public class JDBCDeleteRecords {
    static final String DB_URL = "jdbc:mysql://localhost:3306/emp?useSSL=false";
 
    //  Database credentials
-   static final String USER = "salmah";
+   static final String USER = "salma";
    static final String PASS = "alormas93";
    
    public static void main(String[] args) {
