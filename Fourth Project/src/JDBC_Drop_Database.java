@@ -7,8 +7,8 @@ public class JDBC_Drop_Database {
    static final String DB_URL = "jdbc:mysql://localhost/";
 
    //  Database credentials
-   static final String USER = "username";
-   static final String PASS = "password";
+   static final String USER = "salma";
+   static final String PASS = "alormas93";
    
    public static void main(String[] args) {
    Connection conn = null;
